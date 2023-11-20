@@ -36,6 +36,3 @@
 
 ### 画面遷移図
 https://www.figma.com/file/hKW3BsNtyOGTQV3ga7Z8gM/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&mode=design&t=IyrJq1OM3Cj0Wvl5-1
-
-### ER図
-![Alt text](<スクリーンショット 2023-11-20 22.12.12.png>)
